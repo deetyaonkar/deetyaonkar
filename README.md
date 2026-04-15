@@ -12,8 +12,8 @@ building AI-powered developer tools and real-world systems
   <a href="mailto:deetyao32@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail">
   </a>
-  <a href="YOUR_LINKEDIN_HERE">
-    <img src="www.linkedin.com/in/deetyaonkar&logo=linkedin">
+ href="YOUR_LINKEDIN_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="YOUR_PORTFOLIO_HERE">
     <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=vercel">
