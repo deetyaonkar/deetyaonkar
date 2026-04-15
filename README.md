@@ -25,7 +25,10 @@ building AI-powered developer tools and real-world systems
 <p align="center">
   🚀 currently building <b>CampusCare</b> — improving student healthcare access
 </p>
-
+### tech
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,postgres,redis,docker,pytorch,kafka" />
+</p>
 <!--
 **deetyaonkar/deetyaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
