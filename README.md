@@ -11,11 +11,11 @@ building AI-powered developer tools and real-world systems
 <p align="center">
   <a href="mailto:deetyao32@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail">
-  </a>
- href="YOUR_LINKEDIN_HERE">
+   <a href="YOUR_LINKEDIN_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="YOUR_PORTFOLIO_HERE">
+  <a 
+  href="YOUR_PORTFOLIO_HERE">
     <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=vercel">
   </a>
 </p>
